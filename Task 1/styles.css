@@ -1,0 +1,156 @@
+* {
+
+}
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.btn{
+    font-size: 20px;
+    color: white;
+    padding:10px 25px;
+    border-radius: 5px;
+    background-color: #3468C0;
+    border: none;
+}
+.centre{
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.nav-logo {
+    max-height: 17px;
+    vertical-align: middle;
+    position: relative;
+    top: 28px;
+}
+
+.nav_item{
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    position: relative;
+    align-items: center;
+    padding-right: 150px;
+}
+
+.nav_list{
+    list-style: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    display: inline-block;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.landing{
+    align-items: center;
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.landing_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.two_part{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.landing_txt{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list_award{
+    display: flex;
+}
+
+.press_logo{
+    width: 50px;
+}
+
+.centre_area{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.ecosystem{
+    height: 500px;
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; */
+}
+
+.centre_txt{
+    justify-content: center; 
+    text-align: center; 
+    width: 100%;
+}
+
+.footer{
+    text-align: left;
+    display: flex;
+}
+
+.foot_logo{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.foot_1, .foot_2, .foot_3{
+    margin: 50px;
+}
+
+.foot_txt{
+    margin-top: 0px;
+    margin-left: 100px;
+    display: flex;
+    text-align: left;
+}
+
+.foot_ul{
+    list-style: none;
+    font-size: 20px;
+}
+
+.nav_head{
+    font-size: 25px;
+    font-weight:bolder;
+}
+
+li{
+    margin-bottom: 10px;
+}
